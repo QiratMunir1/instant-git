@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: chocolate;
+    text-shadow: 8px 8px 12px brown;
+    border: 30px;
+}
+h1{
+    line-height: 40px;
+    font-size: 70px;
+}
+fieldset{
+    background-color: beige;
+
+}
+h1:hover{
+    background-color: coral;
+}
